@@ -20,7 +20,7 @@ window.RAI = {
     { id: "faculty", title: "Faculty" },
     { id: "postdoc", title: "Postdocs and researchers" },
     { id: "phd", title: "PhD candidates" },
-    { id: "police", title: "National Police Lab AI", intro: "The group hosts the Utrecht part of the [National Police Lab AI](https://www.uu.nl/en/research/ai-labs/our-labs/national-police-lab-ai), a collaboration with the Dutch National Police, led by Floris Bex. These researchers work in the lab, several of them also at the Dutch National Police." },
+    { id: "police", title: "National Police Lab AI", intro: "The group hosts the Utrecht part of the [National Police Lab AI](https://www.uu.nl/onderzoek/ai-labs/nationaal-politielab-ai), a collaboration with the Dutch National Police, led by Floris Bex. These researchers work in the lab, several of them also at the Dutch National Police." },
     { id: "associated", title: "Associated members", intro: "Researchers based at other institutions who are supervised or co-supervised by members of the group." }
   ],
 
