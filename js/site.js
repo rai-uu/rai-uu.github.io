@@ -229,7 +229,7 @@
   document.querySelectorAll("[data-count]").forEach(function (el) {
     var what = el.getAttribute("data-count"), v = "";
     if (what === "members") v = (D.people || []).length;
-    if (what === "phd") v = (D.people || []).filter(function (p) { return p.group === "phd"; }).length;
+    if (what === "phd") v = (D.people || []).filter(function (p) { return p.group !== "associated" && /PhD candidate/.test(p.role || ""); }).length;
     if (what === "alumni") v = (D.alumni || []).length;
     if (what === "theses") v = (D.theses || []).length;
     if (what === "news") v = (D.news || []).length;
