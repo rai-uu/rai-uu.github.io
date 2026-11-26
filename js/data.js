@@ -53,7 +53,7 @@ window.RAI = {
       url: "https://www.uu.nl/staff/ANMGAfifi",
       topic: "Operationalising hybrid intelligence: a technical evaluation framework for human–AI teams (Hybrid Intelligence Centre)." },
     { group: "postdoc", name: "Begüm Mutlu Bilge", start: "2026-09", role: "Postdoc", since: "2026", photo: "images/people/mutlubilge.jpg",
-      url: "https://www.hybrid-intelligence-centre.nl/who-is-who/begum-mutlu-bilge/",
+      url: "https://www.uu.nl/staff/BMutluBilge/Contact",
       topic: "Machine learning and NLP for responsible decision support, aligning claims, evidence and reviews in scientific publishing. Also at Ankara University." },
     { group: "postdoc", name: "Cor Steging", start: "2026-09", role: "Researcher", since: "2026", photo: "images/people/steging.jpg",
       url: "https://www.uu.nl/staff/CCSteging",
