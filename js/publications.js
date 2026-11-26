@@ -4,18 +4,6 @@
    Group members are shown in bold automatically (names must match js/data.js). */
 window.RAI_PUBLICATIONS = [
  {
-  "year": 2026,
-  "title": "Comparing LLM and Human Behavior in Argumentation-based Reasoning Puzzles",
-  "authors": [
-   "Roos Scheffers",
-   "Cor Steging",
-   "Mengxuan Helen Qiao"
-  ],
-  "venue": "Workshop on Cognitive and Empirical Research in Computational Argumentation (CERCA 2026), co-located with COMMA 2026, Barcelona, CEUR Workshop Proceedings (to appear)",
-  "type": "workshop",
-  "link": "https://roosscheffers.github.io/papers/2026_CERCA_Scheffers.pdf"
- },
- {
   "year": 2025,
   "title": "Formalizing and evaluating knowledge-based AI tools for intelligence analysis",
   "authors": [
